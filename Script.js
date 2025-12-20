@@ -19,3 +19,4 @@ document.addEventListener("DOMContentLoaded", function() {
   // Insere o botão antes da lista de ingredientes
   ingredientes.parentNode.insertBefore(button, ingredientes);
 });
+
